@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Vaibhavi Katiyar</h1>
 <h3 align="center">B.Tech Undergrad working in AI/ML.</h3>
-# 💫 About Me:
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=vaibhavi089&label=Profile%20views&color=0e75b6&style=flat" alt="vaibhavi089" /> </p>
+
+## 💫 About Me:
 🔭 I’m currently working on Chatai<br>👯 I’m looking to collaborate on Stroke Detection<br><br>🌱 I’m currently learning deep learning<br>💬 Ask me about machine learning, deep learning roadmap<br>⚡ Fun fact My favorite data structure is… coffee ☕ and hashmaps
 
 
